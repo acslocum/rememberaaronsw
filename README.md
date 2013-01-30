@@ -36,3 +36,9 @@ If you would like to help with this site, here are a few things that we haven't 
 ## Contributors
 
 Friends, family and loved ones of Aaron Swartz.
+
+## How to set up your own memorial site
+
+### How to generate the site, continuously
+
+jekyll --auto
