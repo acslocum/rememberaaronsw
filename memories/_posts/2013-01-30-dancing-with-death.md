@@ -1,6 +1,6 @@
 ---
 title: "Dancing with Death"
-author: Anonymous
+author: Susan Mueller Baranoff
 date: 2013-01-30
 type: post
 layout: default
