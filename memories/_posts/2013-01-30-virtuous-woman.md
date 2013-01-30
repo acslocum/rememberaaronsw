@@ -1,6 +1,6 @@
 ---
 title: "Proverbs 31:10-31"
-author: Anonymous
+author: Jane Hull
 date: 2013-01-30
 type: post
 layout: default
