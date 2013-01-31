@@ -6,4 +6,4 @@ type: post
 layout: default
 ---
 
-Sally's about page on the MSOhio site is [here.](http://www.msworld.org/content/sally-slocum)
+Sally was a weekly chat moderator at MSWorld. Her "about" page on the MSOhio site is [here.](http://www.msworld.org/content/sally-slocum)
